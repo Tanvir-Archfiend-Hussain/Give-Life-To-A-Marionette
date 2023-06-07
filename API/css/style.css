@@ -6,4 +6,8 @@ body {
   width: 400px;
   height: auto;
   background-color: rgba(0, 191, 255, 0.629);
+}
+.container button {
+  margin: 10px;
+  font-size: 15px;
 }/*# sourceMappingURL=style.css.map */
