@@ -1,4 +1,10 @@
 body {
-  background: url();
-  background-size: initial;
+  background: url(https://m.media-amazon.com/images/I/91L6dDhrftL._AC_UF894,1000_QL80_.jpg);
+  background-size: 400px 600px;
+}
+
+.container {
+  width: 80vw;
+  max-width: 37.5em;
+  background-color: white;
 }/*# sourceMappingURL=style.css.map */
