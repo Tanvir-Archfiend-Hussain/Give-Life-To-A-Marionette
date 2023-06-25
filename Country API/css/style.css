@@ -28,6 +28,7 @@ body {
   gap: 1.25em;
 }
 
-.search-wrapper {
+.search-wrapper button {
   font-size: 1em;
+  background-color: #3D64E6;
 }/*# sourceMappingURL=style.css.map */
