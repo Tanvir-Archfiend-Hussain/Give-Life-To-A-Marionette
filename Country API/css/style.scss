@@ -22,3 +22,13 @@ body {
     left: 50%;
     border-radius: 0.62em;
 }
+
+.search-wrapper {
+    display: grid;
+    grid-template-columns: 9fr 3fr;
+    gap: 1.25em;
+}
+
+.search-wrapper {
+    font-size: 1em;
+}
