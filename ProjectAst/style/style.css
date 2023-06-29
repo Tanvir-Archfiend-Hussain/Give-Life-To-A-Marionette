@@ -9,8 +9,8 @@ body {
   background-color: rgba(0, 255, 255, 0.452);
 }
 .container .photoBooth {
-  width: 200px;
-  height: 200px;
+  width: 230px;
+  height: 230px;
   background-color: rgba(0, 255, 76, 0.364);
 }
 .container .photoBooth img {
