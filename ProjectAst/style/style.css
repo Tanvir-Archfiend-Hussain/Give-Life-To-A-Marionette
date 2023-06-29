@@ -12,4 +12,8 @@ body {
   width: 200px;
   height: 200px;
   background-color: rgba(0, 255, 76, 0.364);
+}
+.container .photoBooth img {
+  width: 180px;
+  height: 180px;
 }/*# sourceMappingURL=style.css.map */
