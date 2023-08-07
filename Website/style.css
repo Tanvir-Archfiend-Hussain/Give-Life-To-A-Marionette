@@ -2,3 +2,9 @@ body {
     background: url(https://miro.medium.com/v2/resize:fit:1200/0*dBYpT8XhVizA3MUt);
     background-size: 400px 600px
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
