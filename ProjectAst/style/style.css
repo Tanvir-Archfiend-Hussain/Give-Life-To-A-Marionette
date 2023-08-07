@@ -4,16 +4,24 @@ body {
 }
 
 .container {
-  width: 600px;
+  /*width: 600px;
   height: 600px;
-  background-color: rgba(0, 255, 255, 0.452);
+  background-color: rgba(0, 255, 255, 0.452);*/
 }
-.container .photoBooth {
+.container .photoCard {
   width: 230px;
-  height: 230px;
+  height: 290px;
   background-color: rgba(0, 255, 76, 0.364);
 }
-.container .photoBooth img {
+.container .photoCard .photoBooth {
+  margin: 20px;
+  padding-top: 30px;
+}
+.container .photoCard .photoBooth img {
   width: 180px;
-  height: 180px;
+  height: 200px;
+}
+.container .photoCard .photoBooth button {
+  width: 180px;
+  height: 30px;
 }/*# sourceMappingURL=style.css.map */
