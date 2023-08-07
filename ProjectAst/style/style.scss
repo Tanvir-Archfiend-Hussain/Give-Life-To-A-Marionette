@@ -4,16 +4,26 @@ body {
 }
 
 .container{
-    width: 600px;
+    /*width: 600px;
     height: 600px;
-    background-color: rgba(0, 255, 255, 0.452);
-    .photoBooth {
+    background-color: rgba(0, 255, 255, 0.452);*/
+    .photoCard {
         width: 230px;
-        height: 230px;
+        height: 290px;
         background-color: rgba(0, 255, 76, 0.364);
-        img {
+        .photoBooth {
+            margin: 20px;
+            padding-top: 30px;
+            img {
             width: 180px;
-            height: 180px;
+            height: 200px;
+            //padding: 20px;
+            //margin: 20px;
+            }
+            button {
+                width: 180px;
+                height: 30px;
+            }  
         }
     }
 }
