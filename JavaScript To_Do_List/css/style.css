@@ -20,3 +20,8 @@
     padding: 40px 30px 70px;
     border-radius: 10px;
 }
+
+.todo-app img {
+    width: 100px;
+    height: 100px;
+}
