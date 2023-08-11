@@ -4,3 +4,9 @@
     font-family: 'Poppins', sans-serif;
     block-size: border-box;
 }
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background: grey;
+}
