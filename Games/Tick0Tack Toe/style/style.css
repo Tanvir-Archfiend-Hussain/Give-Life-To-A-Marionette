@@ -11,4 +11,9 @@ body {
   align-items: center;
   flex-direction: column;
   height: 100vh;
+}
+
+#gameboard {
+  width: 300px;
+  height: 300px;
 }/*# sourceMappingURL=style.css.map */
