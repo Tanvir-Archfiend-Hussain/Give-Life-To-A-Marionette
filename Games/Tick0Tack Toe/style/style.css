@@ -19,4 +19,9 @@ body {
   background-color: black;
   display: flex;
   flex-wrap: wrap;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
 }/*# sourceMappingURL=style.css.map */
