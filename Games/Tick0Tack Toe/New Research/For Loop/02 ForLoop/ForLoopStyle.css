@@ -8,12 +8,19 @@ body {
   background-size: 300px 500px;
 }
 
-#pic01 {
-  width: 250px;
-  height: 350px;
+.container #pic01 {
+  width: 230px;
+  height: 330px;
 }
-
-img {
+.container #pic02 {
+  width: 300px;
+  height: 500px;
+}
+.container img {
   width: 350px;
   height: 550px;
+}
+
+.container {
+  display: flex;
 }/*# sourceMappingURL=ForLoopStyle.css.map */
