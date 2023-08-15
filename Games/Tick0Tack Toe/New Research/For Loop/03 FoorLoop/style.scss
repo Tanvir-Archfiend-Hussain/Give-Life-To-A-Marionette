@@ -8,12 +8,19 @@ body {
   background-size: 350px 500px;
 }
 
-#pic01 {
-  width: 300px;
-  height: 460px;
-}
+.container {
+  display: flex;
+  flex-wrap: wrap;
 
-#pic02 {
-  width: 480px;
-  height: 250px;
+  #pic01 {
+    width: 300px;
+    height: 460px;
+    margin: 15px;
+  }
+
+  #pic02 {
+    width: 480px;
+    height: 250px;
+    margin: 15px;
+  }
 }
