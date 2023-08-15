@@ -1,1 +1,9 @@
-/*# sourceMappingURL=style.css.map */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url();
+  background-size: initial;
+}/*# sourceMappingURL=style.css.map */
