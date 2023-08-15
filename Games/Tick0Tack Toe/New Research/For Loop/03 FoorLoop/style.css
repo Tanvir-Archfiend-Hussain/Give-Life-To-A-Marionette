@@ -6,4 +6,14 @@
 body {
   background: url(https://www.gayguides.com/forums/uploads/monthly_02_2017/post-8337-0-29486400-1486159157.jpg);
   background-size: 350px 500px;
+}
+
+#pic01 {
+  width: 300px;
+  height: 460px;
+}
+
+#pic02 {
+  width: 480px;
+  height: 250px;
 }/*# sourceMappingURL=style.css.map */
