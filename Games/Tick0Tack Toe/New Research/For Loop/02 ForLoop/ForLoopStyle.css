@@ -16,11 +16,17 @@ body {
   width: 300px;
   height: 500px;
 }
+.container #pic124 {
+  width: 230px;
+  height: 250px;
+}
 .container img {
   width: 350px;
   height: 550px;
+  margin: 5px;
 }
 
 .container {
   display: flex;
+  flex-wrap: wrap;
 }/*# sourceMappingURL=ForLoopStyle.css.map */
