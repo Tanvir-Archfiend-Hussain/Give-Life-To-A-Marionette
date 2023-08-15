@@ -17,12 +17,18 @@ body {
     width: 300px;
     height: 500px;
   }
+  #pic124 {
+    width: 230px;
+    height: 250px;
+  }
   img {
     width: 350px;
     height: 550px;
+    margin: 5px;
   }
 }
 
 .container {
   display: flex;
+  flex-wrap: wrap;
 }
