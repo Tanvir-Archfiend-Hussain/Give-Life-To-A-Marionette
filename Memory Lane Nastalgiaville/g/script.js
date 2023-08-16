@@ -41,3 +41,19 @@ document.querySelector(".btn04").addEventListener("click", function () {
     "width=500, height=600, top=100, left=400"
   );
 });
+
+document.querySelector(".btn05").addEventListener("click", function () {
+  window.open(
+    "https://www.gayguides.com/forums/uploads/monthly_02_2017/post-400-0-54767900-1486436865.jpg",
+    "_blank",
+    "width=500, height=600, top=100, left=400"
+  );
+});
+
+document.querySelector(".btn06").addEventListener("click", function () {
+  window.open(
+    "http://img.zlut.com/tmb/4b/ee/12696285/240x180-7.jpg",
+    "_blank",
+    "width=500, height=600, top=100, left=400"
+  );
+});
