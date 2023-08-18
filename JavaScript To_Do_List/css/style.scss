@@ -47,3 +47,14 @@ button {
   color: pink;
   font-size: 1.25rem;
 }
+
+#new-task-input::placeholder {
+  color: green;
+}
+
+#new-task-submit {
+  color: purple;
+  font-size: 2.25rem;
+  font-weight: 700;
+  background-image: yellow;
+}
