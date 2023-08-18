@@ -48,4 +48,19 @@ button {
   margin-right: 1rem;
   color: pink;
   font-size: 1.25rem;
+}
+
+#new-task-input::-moz-placeholder {
+  color: green;
+}
+
+#new-task-input::placeholder {
+  color: green;
+}
+
+#new-task-submit {
+  color: purple;
+  font-size: 2.25rem;
+  font-weight: 700;
+  background-image: yellow;
 }/*# sourceMappingURL=style.css.map */
