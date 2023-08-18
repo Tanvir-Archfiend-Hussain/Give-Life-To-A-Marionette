@@ -25,3 +25,25 @@ header h1 {
   color: var();
   margin-bottom: 1rem;
 }
+
+#new-task-form {
+  display: flex;
+}
+
+input,
+button {
+  appearance: none;
+  border: none;
+  outline: none;
+  background: none;
+}
+
+#new-task-input {
+  flex: 1 1 0%;
+  background-color: blue;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin-right: 1rem;
+  color: pink;
+  font-size: 1.25rem;
+}
