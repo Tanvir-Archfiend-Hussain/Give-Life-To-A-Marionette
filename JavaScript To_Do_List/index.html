@@ -16,8 +16,22 @@
           id="new-task-input"
           placeholder="What do you have planned?"
         />
-        <input type="submit" />
+        <input type="submit" value="Add Task" id="new-task-submit" />
       </form>
     </header>
+
+    <main>
+      <section class="task-list">
+        <h2>Tasks</h2>
+
+        <div id="tasks">
+          <div class="task">
+            <div class="content">
+              <input type="text" class="text" value="My Shiny Task" readonly />
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
   </body>
 </html>
