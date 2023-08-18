@@ -9,4 +9,12 @@ body {
   background-size: 700px 500px;
   display: flex;
   flex-direction: column;
+  color: white;
+}
+
+header {
+  padding: 2rem 1rem;
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
 }
