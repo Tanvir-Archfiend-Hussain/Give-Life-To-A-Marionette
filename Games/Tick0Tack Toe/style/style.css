@@ -33,4 +33,10 @@ body {
 #tempPic {
   width: 500px;
   transform: translate(10px, 30%);
+}
+
+.circle {
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
 }/*# sourceMappingURL=style.css.map */
