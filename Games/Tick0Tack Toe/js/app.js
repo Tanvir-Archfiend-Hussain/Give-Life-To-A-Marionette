@@ -14,4 +14,6 @@ function createBoard() {
 
 createBoard();
 
-function addGo(e) {}
+function addGo(e) {
+  const goDisplay = document.createElement("div");
+}
