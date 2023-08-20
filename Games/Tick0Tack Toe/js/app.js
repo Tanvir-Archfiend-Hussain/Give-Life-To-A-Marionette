@@ -14,6 +14,4 @@ function createBoard() {
 
 createBoard();
 
-function addGo(e) {
-  console.log(e.target);
-}
+function addGo(e) {}
