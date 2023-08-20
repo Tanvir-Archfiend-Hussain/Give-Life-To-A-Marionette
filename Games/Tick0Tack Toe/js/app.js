@@ -16,4 +16,6 @@ createBoard();
 
 function addGo(e) {
   const goDisplay = document.createElement("div");
+  goDisplay.classList.add("circle");
+  e.target.append(goDisplay);
 }
