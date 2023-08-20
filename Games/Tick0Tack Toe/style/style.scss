@@ -28,3 +28,8 @@ body {
   border: solid 2px black;
   box-sizing: border-box;
 }
+
+#tempPic {
+  width: 500px;
+  transform: translate(10px, 30%);
+}
