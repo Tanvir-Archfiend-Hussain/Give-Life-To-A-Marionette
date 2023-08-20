@@ -7,7 +7,7 @@ function createBoard() {
     const cellElement = document.createElement("div");
     cellElement.classList.add("square");
     cellElement.id = index;
-    cellElement.addEventListener("click", add);
+    cellElement.addEventListener("click", addGo);
     gameBoard.append(cellElement);
   });
 }
