@@ -25,4 +25,6 @@ body {
   width: 100px;
   height: 100px;
   background-color: wheat;
+  border: solid 2px black;
+  box-sizing: border-box;
 }/*# sourceMappingURL=style.css.map */
