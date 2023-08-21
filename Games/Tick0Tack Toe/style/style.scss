@@ -45,3 +45,11 @@ body {
   box-sizing: border-box;
   background-color: blue;
 }
+
+.cross {
+  height: 90px;
+  width: 90px;
+  position: relative;
+}
+
+.cross:before, .cross:after
