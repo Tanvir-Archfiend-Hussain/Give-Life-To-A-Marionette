@@ -44,4 +44,10 @@ body {
   border-radius: 50%;
   box-sizing: border-box;
   background-color: blue;
+}
+
+.cross {
+  height: 90px;
+  width: 90px;
+  position: relative;
 }/*# sourceMappingURL=style.css.map */
