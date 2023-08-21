@@ -43,7 +43,8 @@ body {
   width: 90px;
   border-radius: 50%;
   box-sizing: border-box;
-  background-color: blue;
+  background: url(https://media-photos.depop.com/b0/7852682/1143157664_40c59e0b70c3416eab37210c0708f4c0/P0.jpg);
+  background-size: 100px;
 }
 
 .cross {
@@ -52,6 +53,7 @@ body {
   position: relative;
 }
 
+/*
 .cross:before,
 .cross:after {
   content: "";
@@ -64,4 +66,13 @@ body {
   width: 30%;
   margin-left: -15%;
   height: 100%;
+}
+*/
+.cross {
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+  box-sizing: border-box;
+  background: url(https://as1.ftcdn.net/v2/jpg/04/14/48/32/1000_F_414483239_o2frsZNElJzhTjKnYHXscjvvV3KTJjdx.jpg);
+  background-size: 100px;
 }/*# sourceMappingURL=style.css.map */
