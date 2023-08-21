@@ -52,4 +52,9 @@ body {
   position: relative;
 }
 
-.cross:before, .cross:after
+.cross:before,
+.cross:after {
+  content: "";
+  position: absolute;
+  background-color: red;
+}
