@@ -21,4 +21,8 @@ body {
 .photoBooth {
   background-color: blue;
   margin: 10px;
+}
+.photoBooth button {
+  width: 60px;
+  height: 50px;
 }/*# sourceMappingURL=style.css.map */
