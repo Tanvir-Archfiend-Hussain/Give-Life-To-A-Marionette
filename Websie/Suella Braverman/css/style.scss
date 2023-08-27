@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url(https://cdn6.dissolve.com/p/D984_67_050/D984_67_050_1200.jpg);
+  background-size: 400px 600px;
+}
+
+.picID {
+  width: 350px;
+  height: 500px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.photoBooth {
+  background-color: rgba(0, 0, 255, 0.498);
+  margin: 10px;
+  padding: 10px;
+  button {
+    width: 140px;
+    height: 50px;
+    margin: 20px;
+    background-color: rgba(192, 246, 255, 0.732);
+  }
+}
