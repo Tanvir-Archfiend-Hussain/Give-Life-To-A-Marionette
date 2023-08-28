@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url(https://www.indivstock.com/static51/preview2/stock-photo-sexy-mature-woman-in-red-high-heels-and-black-skirt-on-a-staircase-1006487.jpg);
+  background-size: 600px 400px;
+}
+
+.picID {
+  width: 350px;
+  height: 500px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.photoBooth {
+  background-color: rgba(0, 0, 255, 0.498);
+  margin: 10px;
+  padding: 10px;
+}
+.photoBooth button {
+  width: 140px;
+  height: 50px;
+  margin: 20px;
+  background-color: rgba(192, 246, 255, 0.732);
+}/*# sourceMappingURL=style.css.map */
